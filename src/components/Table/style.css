@@ -1,0 +1,17 @@
+table {
+  border-collapse: collapse;
+  margin: 20px;
+  width: 300px;
+  text-align: center;
+  border: 0 solid crimson;
+}
+
+td {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+.item__active {
+  color: green;
+  font-weight: bold;
+}
